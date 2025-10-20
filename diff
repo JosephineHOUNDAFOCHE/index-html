@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio de Josephine HOUNDAFOCHE</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f5f8f6;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #4a7c59;
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+      font-style: italic;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      border-radius: 15px;
+      padding: 30px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #2b4d2b;
+      border-bottom: 2px solid #e3e3e3;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li::before {
+      content: "🌿 ";
+    }
+    a {
+      color: #4a7c59;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      background-color: #4a7c59;
+      color: white;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Josephine HOUNDAFOCHE</h1>
+    <p>🌾 Je valorise l'agriculture avec les mots justes et inspirants</p>
+  </header>
+
+  <section>
+    <h2>À propos de moi</h2>
+    <p>
+      Diplômée en agronomie, je me consacre à la rédaction web et à la communication agricole.
+      J’aide les acteurs du monde rural à valoriser leurs initiatives à travers des contenus clairs et vivants.
+    </p>
+  </section>
+
+  <section>
+    <h2>Mes services</h2>
+    <ul>
+      <li>✍️ Rédaction web</li>
+      <li>🌿 Storytelling agricole</li>
+      <li>💻 Communication digitale</li>
+      <li>📰 Gestion de blog</li>
+      <li>🛍️ Création de fiches produits</li>
+      <li>📝 Description de produits</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Mes réalisations</h2>
+    <p>Voici les types de contenus que je mets en avant :</p>
+    <ul>
+      <li>📄 Articles sur l’agriculture et l’agroécologie</li>
+      <li>💬 Posts LinkedIn à forte valeur ajoutée</li>
+      <li>🎯 Campagnes de sensibilisation</li>
+      <li>📘 Fiches techniques et informatives</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>📧 Email : <a href="mailto:houndafochejosephine@gmail.com">houndafochejosephine@gmail.com</a></p>
+    <p>🔗 LinkedIn : <a href="https://www.linkedin.com/in/basilia-josephine-sedekon-houndafo" target="_blank">Basilia Josephine Sèdékon HOUNDAFOCHE</a></p>
+  </section>
+
+  <footer>
+    © 2025 Josephine HOUNDAFOCHE — Rédactrice web & communication agricole 🌾
+  </footer>
+
+</body>
+</html>
